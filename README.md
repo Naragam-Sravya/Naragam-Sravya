@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Naragam-Sravya
 - 👀 I’m interested Coding and Devops
-- 🌱 I’m currently learning Java Script
+- 🌱 I’m currently learning System Design
 - 💞️ I’m looking to collaborate on Java Script, Java and Cloud related projects
 - 📫 You can reach me on email: sravyanaragam9@gmail.com
 
